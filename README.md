@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 </p>
 
 ---
@@ -38,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="60" />
 </p>
 
 ---
@@ -54,6 +53,9 @@
 ### 🔧 Ferramentas Extras
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+  
 </p>
 
 ---
@@ -61,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRobinson&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRobinson&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardorobinson&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorobinson&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -70,7 +72,7 @@
 ### 🏆 Conquistas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoRobinson&theme=tokyonight&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=eduardorobinson&theme=tokyonight&row=1&no-frame=true" />
 </p>
 
 ---
