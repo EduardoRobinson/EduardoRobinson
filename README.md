@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <em>Desenvolvedor Full-Stack</em>
+  <h2>Desenvolvedor Full-Stack</h2>
 </p>
 
 ---
