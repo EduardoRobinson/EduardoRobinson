@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/springboot.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" />
 </p>
 
 ---
