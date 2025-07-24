@@ -1,11 +1,11 @@
-<h1 align="center">Eduardo Robinson - Desenvolvedor Full-Stack👨🏽‍💻</h1>
+<h1 align="center">Eduardo Robinson - FullStack Web Developer👨🏽‍💻</h1>
 
 ---
 
-### 📚 Sobre mim
+### 📚 About me
 
-- 🎓 Graduando do Ultimo Semestre de Ciencia da Computação - UTFPR
-- 👨🏽‍💻 Desenvolvedor FullStack Espaço Smart
+- 🎓 Computer Science - UTFPR
+- 👨🏽‍💻 FullStack Web Developer at Espaço Smart
 
 ---
 
@@ -47,11 +47,13 @@
 
 ---
 
-### 🔧 Ferramentas Extras
+### 🔧 Extra Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" />     
 </p>
@@ -66,7 +68,7 @@
 
 ---
 
-### 🏆 Conquistas do GitHub
+### 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=eduardorobinson&theme=tokyonight&row=1&no-frame=true" />
