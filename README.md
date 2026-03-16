@@ -3,7 +3,7 @@
 ### 📚 About me
 
 - 🎓 Computer Science - UTFPR
-- 👨🏽‍💻 FullStack Web Developer at Espaço Smart
+- 👨🏽‍💻 FullStack Web Developer
 
 ---
 
