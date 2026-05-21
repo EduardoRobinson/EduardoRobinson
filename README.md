@@ -43,7 +43,6 @@ Tenho focado meus estudos e projetos na integração de Inteligência Artificial
 ### 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorobinson&layout=compact&theme=tokyonight" height="160" alt="Top Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=eduardorobinson&theme=tokyonight&row=1&no-frame=true&margin-w=15" height="160" alt="GitHub Trophies"/>
 </p>
 
